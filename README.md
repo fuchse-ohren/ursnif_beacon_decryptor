@@ -44,7 +44,7 @@ Different versions could have more parametres. Example:
 
 #### Requirements
 * Python3
-* cryptopp library (libcrypto++6 debian repo)
+* cryptopp library (libcrypto++8 ubuntu repo)
 
 If you run a Linux environment, you can just run the python script that will load `Driver.so` that is needed to perform decryption.
 
